@@ -1,0 +1,1 @@
+﻿ALTER TABLE AccessLog ALTER COLUMN AccessMode VARCHAR(250);

@@ -1,0 +1,4 @@
+﻿USE QRDocVaultDB;
+GO
+ALTER TABLE AccessLog ALTER COLUMN AccessMode VARCHAR(250);
+GO
